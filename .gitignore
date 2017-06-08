@@ -144,8 +144,7 @@ pip-selfcheck.json
 
 .gitignore
 .idea/
-auction/
+
 db.sqlite3
 manage.py
-polls/
-templates/
+
